@@ -1,0 +1,5 @@
+Name,Kontoname,Kategorie,Kommentar,Betrag,isMonat
+Spotify,Privat Konto,Sonstiges,Monatliche Spotify Ausgaben für 5 Personen (Jessi Bruder Dome Daria Ex),-14.99,TRUE
+Gehalt,Privat Konto,Einkommen,Einkommen von der Firma PERFact,955.70,TRUE
+SteuerFirma,Firmen Konto,Sonstiges,Jährliche Steuer von meiner Firma,-6790.37,FALSE
+Taschengeld,Sparbuch,Einzahlung,Rücklagen jeden Monat von 50Euro Taschengeld,50.00,TRUE
